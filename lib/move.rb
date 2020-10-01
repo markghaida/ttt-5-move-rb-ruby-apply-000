@@ -13,8 +13,8 @@ def input_to_index (user_input)
    index_number = (#{input_to_int} - 1)
 end
 
-board = [" ", " ", " "]
+#board = [" ", " ", " "]
 
-def move (array, index, value= "X")
-  array[index] = value
-end
+#def move (array, index, value= "X")
+  #array[index] = value
+#end
