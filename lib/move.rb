@@ -9,6 +9,6 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index (user_input)
-  string_to_int = #{user_input}.to_i
+   #{user_input}.to_i
   
 end
