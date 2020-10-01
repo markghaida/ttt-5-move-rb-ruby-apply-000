@@ -10,5 +10,5 @@ end
 
 def input_to_index (user_input)
   string_to_int = #{user_input}.to_i
-  index_number = (#{user_input} + 1)
+  index_number = (#{user_input} - 1)
 end
