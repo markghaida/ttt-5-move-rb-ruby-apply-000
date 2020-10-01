@@ -10,11 +10,11 @@ require_relative '../lib/move.rb'
 
 #puts "Where would you like to go?"
 
-input = gets.strip
+#input = gets.strip
 
-def input_to_index (input)
- string_to_int = "#{input}".to_i
- index = (string_to_int) - 1
+#def input_to_index (input)
+# string_to_int = "#{input}".to_i
+# index = (string_to_int) - 1
 end
 
 move(board, index, value = "X")
