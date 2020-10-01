@@ -16,4 +16,4 @@ input_to_index (input)
 
 move(" ", 0, "X")
 
-display_board()
+display_board(user_input)
