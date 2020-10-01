@@ -14,4 +14,5 @@ def input_to_index (user_input)
 end
 
 def move (array, index, value= "X")
+  
 end
