@@ -11,7 +11,7 @@ end
 def input_to_index (user_input)
   input_number = #{user_input}.to_i
   index_number = (input_number + 1)
-  
+end
   def move (board, index, character= "X")
     
   
