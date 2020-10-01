@@ -11,6 +11,4 @@ end
 def input_to_index (user_input)
    integer = "#{user_input}".to_i
    index_number = integer - 1 
-   
-  
 end
