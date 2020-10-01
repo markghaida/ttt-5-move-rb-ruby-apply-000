@@ -9,8 +9,8 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index input)
-   index = "#{input}".to_i
-   index_number = integer - 1 
+   input_to_int = "#{input}".to_i
+   index = (integer - 1)
 end
 
 board = [" ", " ", " "]
