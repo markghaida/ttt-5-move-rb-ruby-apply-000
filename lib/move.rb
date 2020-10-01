@@ -18,4 +18,3 @@ board = [" ", " ", " "]
 def move (array, index, value= "X")
   array[index] = value
 end
-end
