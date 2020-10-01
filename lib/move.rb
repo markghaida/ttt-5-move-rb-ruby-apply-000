@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index input)
+def input_to_index (input)
    input_to_int = "#{input}".to_i
    index = (integer - 1)
 end
