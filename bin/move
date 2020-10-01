@@ -15,8 +15,8 @@ require_relative '../lib/move.rb'
 #def input_to_index (input)
 # string_to_int = "#{input}".to_i
 # index = (string_to_int) - 1
-end
+#end
 
-move(board, index, value = "X")
+#move(board, index, value = "X")
 
-display_board(board)
+#display_board(board)
