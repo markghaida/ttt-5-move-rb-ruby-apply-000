@@ -10,7 +10,7 @@ end
 
 def input_to_index (user_input)
    input_to_int = "#{user_input}".to_i
-   index = (#{input_to_int} - 1)
+   index_number = (#{input_to_int} - 1)
 end
 
 board = [" ", " ", " "]
